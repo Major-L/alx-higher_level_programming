@@ -1,19 +1,3 @@
-yonasleykun27
-/
-alx-higher_level_programming
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-alx-higher_level_programming/0x08-python-more_classes/6-rectangle.py
-@yonasleykun27
-yonasleykun27 all tasks
- 1 contributor
-Executable File  79 lines (67 sloc)  2.38 KB
 #!/usr/bin/python3
 """A class that defines a rectangle"""
 
